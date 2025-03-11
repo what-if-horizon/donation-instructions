@@ -1,7 +1,9 @@
 ---
 permalink: /facebook
-title: "Data takeout: Facebook (web)"
+title: "Data takeout: Facebook (Browser)"
 ---
+
+Device: **Browser** | [iOS App](facebook_ios)
 
 ## 1. Log in to Facebook and open your Accounts Center
 
