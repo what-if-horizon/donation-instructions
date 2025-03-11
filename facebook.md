@@ -6,7 +6,7 @@ title: "Data takeout: Facebook (web)"
 ## 1. Log in to Facebook and open your Accounts Center
 
 Open Facebook and log into your account:
-[https://www.facebook.com/(https://www.facebook.com/).
+[https://www.facebook.com/](https://www.facebook.com/).
 
 Once you sign in, click on the following link to access the Accounts
 Center: [https://accountscenter.facebook.com/](https://accountscenter.facebook.com/).
