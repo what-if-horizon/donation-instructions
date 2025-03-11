@@ -1,7 +1,9 @@
 ---
 permalink: /instagram
-title: "Data takeout: Instagram"
+title: "Data takeout: Instagram (Browser)"
 ---
+
+Device: **Browser** \| [App](instagram_app)
 
 ## 1. Log in to Instagram and open the Download your information page
 

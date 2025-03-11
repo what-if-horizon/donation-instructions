@@ -3,6 +3,8 @@ permalink: /youtube
 title: "Data takeout: YouTube (Web)"
 ---
 
+Device: **Browser** \| [App](youtube_app)
+
 Sign in to your Google account, then go to the Google takeout page:
 <https://takeout.google.com/>.
 

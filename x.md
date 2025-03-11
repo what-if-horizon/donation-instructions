@@ -3,6 +3,8 @@ permalink: /x
 title: "Data takeout: X (Web)"
 ---
 
+Device: **Browser** \| [App](x_app)
+
 ## 1. Sign in to your X account
 
 Go to [https://x.com](https://x.com) and sign into your account.

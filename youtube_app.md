@@ -3,6 +3,8 @@ permalink: /youtube_app
 title: "Data takeout: YouTube (App)"
 ---
 
+Device: [Browser](youtube) \| **App**
+
 Open the YouTube app on your phone then click on your profile picture at
 the bottom right of the screen. Then click on **Google Account** at the
 top of the page.

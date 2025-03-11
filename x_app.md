@@ -3,6 +3,8 @@ permalink: /x_app
 title: "Data takeout: X (App)"
 ---
 
+Device: [Browser](x) \| **App**
+
 Open the X app and sign in to your account. Then click on your profile
 on the top left of the screen.
 

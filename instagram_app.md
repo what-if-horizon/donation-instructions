@@ -3,6 +3,8 @@ permalink: /instagram_app
 title: "Data takeout: Instagram (App)"
 ---
 
+Device: [Browser](instagram) \| **App**
+
 ## 1. Sign in on the Instagram app
 
 Open the Instagram app and sign in to your account.
