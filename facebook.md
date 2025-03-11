@@ -1,23 +1,21 @@
-**Data takeout: Facebook (web)**
+# Data takeout: Facebook (web)
 
-1.  **Log in to Facebook and open your Accounts Center**
+## 1. Log in to Facebook and open your Accounts Center
 
 Open Facebook and log into your account:
-[[https://www.facebook.com/]{.underline}](https://www.facebook.com/).
+[https://www.facebook.com/(https://www.facebook.com/).
 
 Once you sign in, click on the following link to access the Accounts
-Center:
-[[https://accountscenter.facebook.com/]{.underline}](https://accountscenter.facebook.com/).
+Center: [https://accountscenter.facebook.com/](https://accountscenter.facebook.com/).
 
-2.  **Click Your information and permissions**
+## 2. Click Your information and permissions
 
 Click on **Your information and permissions** on the left panel:
-[[https://accountscenter.facebook.com/info_and_permissions]{.underline}](https://accountscenter.facebook.com/info_and_permissions)
+[https://accountscenter.facebook.com/info_and_permissions](https://accountscenter.facebook.com/info_and_permissions)
 
 Then click on **Download your information**.
 
-![](media/image7.png){width="6.263888888888889in"
-height="3.6118055555555557in"}
+![Accounts Center](assets/screenshots/fb-accountcenter.png)
 
 3.  **Click Download or transfer information**
 
@@ -45,14 +43,14 @@ height="3.691666666666667in"}
 
 The following will appear to select your file options:
 
-Select the **Date range**: All time \[*note: Date range can be
-customised*\]
+Select the **Date range**: All time \[_note: Date range can be
+customised_\]
 
 Select who to **notify**: \[email address\]
 
 Select the **format**: JSON
 
-Select the **media quality**: Medium \[*other options: Low/High*\]
+Select the **media quality**: Medium \[_other options: Low/High_\]
 
 Then click on **Create files**.
 
