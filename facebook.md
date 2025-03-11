@@ -17,27 +17,22 @@ Then click on **Download your information**.
 
 ![Accounts Center](assets/screenshots/fb-accountcenter.png)
 
-3.  **Click Download or transfer information**
+## 3. Click Download or transfer information
 
 Once you click on Download your information, the following page will
 appear:
 
-Click on **Download or transfer information**.
+![Accounts Center](assets/screenshots/fb-transfer.png)
 
-![](media/image19.png){width="6.263888888888889in"
-height="3.688888888888889in"}
-
-4.  **Select the amount of information you would like to download**
+## 4. Select the amount of information you would like to download
 
 Click on **Available information**.
 
-![](media/image4.png){width="6.263888888888889in"
-height="3.5548611111111112in"}
+![Accounts Center](assets/screenshots/fb-howmuch.png)
 
 Once you click on Available information, select **Download to device**.
 
-![](media/image2.png){width="6.263888888888889in"
-height="3.691666666666667in"}
+![Accounts Center](assets/screenshots/fb-what.png)
 
 5.  **Choose your file options**
 
