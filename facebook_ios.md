@@ -3,6 +3,8 @@ permalink: /facebook_ios
 title: "Data takeout: Facebook (iOS)"
 ---
 
+Device: [Browser](facebook) \| **iOS App**
+
 ## 1. Sign in on the Facebook app
 
 Open the Facebook app and sign in to your account.
